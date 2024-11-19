@@ -1,10 +1,10 @@
 # Praktikum 5
 # Data Diri
-Nama : Sheila Antica O
+Nama : RO,UF MUHAMMAD FAUZAN
 
 Kelas : TI.24.A1
 
-NIM : 312410002
+NIM : 312410157
 
 # input dan output dari Praktikum 5
 ## Input

@@ -1,5 +1,5 @@
 # Praktikum 5
-Nama : RO,UF MUHAMMAD FAUZAN
+Nama : RO'UF MUHAMMAD FAUZAN
 
 Kelas : TI.24.A1
 

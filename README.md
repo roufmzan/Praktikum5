@@ -1,5 +1,4 @@
 # Praktikum 5
-# Data Diri
 Nama : RO,UF MUHAMMAD FAUZAN
 
 Kelas : TI.24.A1
@@ -102,21 +101,7 @@ if __name__ == "__main__":
             print("Pilihan tidak valid")
 ```
 ## Output
-```Python
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-T
-Tambahkan Data
-NIM: 312410002
-Nama: Sheila
-Nilai Tugas: 87
-Nilai UTS: 89
-Nilai UAS: 90
-Data berhasil ditambahkan.
-
-[(L)ihat, (T)ambah, (U)bah, (H)apus, (C)ari, (K)eluar]:
-K
-Keluar dari program.
-```
+![output](output.png)
 
 ## Penjelasan 
 Fungsi : Setiap bagian yang diawali dengan def adalah sebuah fungsi. Fungsi ini memiliki tugas khusus, seperti menampilkan menu, menambahkan data, mengubah data, dan sebagainya.

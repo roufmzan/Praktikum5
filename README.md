@@ -6,7 +6,11 @@ Kelas : TI.24.A1
 
 NIM : 312410157
 
-# input dan output dari Praktikum 5
+# Flowchart, input dan output dari Praktikum 5
+
+## Flowcart
+![flowcart](flowchart.png)
+
 ## Input
 ```Python
 def tampilkan_menu():
@@ -113,9 +117,6 @@ Data berhasil ditambahkan.
 K
 Keluar dari program.
 ```
-## Flowcart
-![flowcart](flowchart.png)
-
 
 ## Penjelasan 
 Fungsi : Setiap bagian yang diawali dengan def adalah sebuah fungsi. Fungsi ini memiliki tugas khusus, seperti menampilkan menu, menambahkan data, mengubah data, dan sebagainya.
